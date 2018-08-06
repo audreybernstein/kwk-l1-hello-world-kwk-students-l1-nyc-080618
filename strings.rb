@@ -4,4 +4,4 @@ puts "audrey".downcase
 puts "audrey".reverse
 puts "audrey".swapcase
 puts "audrey".capitalize
-puts "audrey".length
+puts "audrey ".length
