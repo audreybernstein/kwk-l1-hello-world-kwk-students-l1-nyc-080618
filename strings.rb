@@ -5,4 +5,4 @@ puts "audrey".reverse
 puts "audrey".swapcase
 puts "audrey".capitalize
 puts "audrey ".length
-puts "i love kode with klossy".length-upcase
+puts "i love kode with klossy".length + upcase
